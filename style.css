@@ -1,0 +1,26 @@
+/* Personalização */
+.hero {
+    background-image: url('imagens/herobanner.jpg');
+    background-size: cover;
+    background-position: center;
+    color: rgb(175, 50, 50);
+    height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}ASA\X
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+}
+\A 
